@@ -25,7 +25,7 @@ const scale = scaleLinear().domain([0, 100]).range([0, 500]);
 
 Renders an Axis in SVG (so it expects to be within an `svg` element).
 
-##### values: Array<T>
+##### values: Array&lt;T>
 
 The values corresponding to where the ticks on the axis will be made.
 
@@ -37,7 +37,7 @@ A function converting a tick value to an offset along the axis.
 
 A function rendering a tick value to a string, for its label.
 
-##### range: Array<number>
+##### range: Array&lt;number>
 
 The numerical range of the *rendered* axis. So, if an axis runs 1000px wide, this would be `[0, 1000]`.
 
