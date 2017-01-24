@@ -4,6 +4,8 @@
 
 React-based Axis component for D3
 
+<img src="http://i.imgur.com/lfNZ6RN.png" width="300">
+
 ## What is this?
 
 D3v4's modular structure means you can pull in things like the scaling or colour logic, and leave out DOM functionality if you're using D3 in an environment that 'owns' the DOM -- such as React.
