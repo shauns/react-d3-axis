@@ -1,0 +1,15 @@
+exports[`test Works with bandwidth scales 1`] = `
+Object {
+  "format": [Function],
+  "position": [Function],
+  "range": Array [
+    0,
+    500,
+  ],
+  "values": Array [
+    "foo",
+    "bar",
+    "baz",
+  ],
+}
+`;

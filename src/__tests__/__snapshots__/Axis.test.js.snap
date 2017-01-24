@@ -1,0 +1,243 @@
+exports[`test Renders bottom-oriented 1`] = `
+<g
+  fill="none"
+  fontFamily="sans-serif"
+  fontSize={10}
+  strokeWidth={1}
+  textAnchor="middle">
+  <path
+    d="M0.5,6V0.5H1000.5V6"
+    stroke="black" />
+  <g
+    opacity={1}
+    transform="translate(0,0)">
+    <line
+      stroke="black"
+      x1={0.5}
+      x2={0.5}
+      y2={6} />
+    <text
+      dy="0.71em"
+      fill="black"
+      x={0.5}
+      y={9}>
+      0
+    </text>
+  </g>
+  <g
+    opacity={1}
+    transform="translate(500,0)">
+    <line
+      stroke="black"
+      x1={0.5}
+      x2={0.5}
+      y2={6} />
+    <text
+      dy="0.71em"
+      fill="black"
+      x={0.5}
+      y={9}>
+      250
+    </text>
+  </g>
+  <g
+    opacity={1}
+    transform="translate(1000,0)">
+    <line
+      stroke="black"
+      x1={0.5}
+      x2={0.5}
+      y2={6} />
+    <text
+      dy="0.71em"
+      fill="black"
+      x={0.5}
+      y={9}>
+      500
+    </text>
+  </g>
+</g>
+`;
+
+exports[`test Renders left-oriented 1`] = `
+<g
+  fill="none"
+  fontFamily="sans-serif"
+  fontSize={10}
+  strokeWidth={1}
+  textAnchor="end">
+  <path
+    d="M-6,0.5H0.5V1000.5H-6"
+    stroke="black" />
+  <g
+    opacity={1}
+    transform="translate(0,0)">
+    <line
+      stroke="black"
+      x2={-6}
+      y1={0.5}
+      y2={0.5} />
+    <text
+      dy="0.32em"
+      fill="black"
+      x={-9}
+      y={0.5}>
+      0
+    </text>
+  </g>
+  <g
+    opacity={1}
+    transform="translate(0,500)">
+    <line
+      stroke="black"
+      x2={-6}
+      y1={0.5}
+      y2={0.5} />
+    <text
+      dy="0.32em"
+      fill="black"
+      x={-9}
+      y={0.5}>
+      250
+    </text>
+  </g>
+  <g
+    opacity={1}
+    transform="translate(0,1000)">
+    <line
+      stroke="black"
+      x2={-6}
+      y1={0.5}
+      y2={0.5} />
+    <text
+      dy="0.32em"
+      fill="black"
+      x={-9}
+      y={0.5}>
+      500
+    </text>
+  </g>
+</g>
+`;
+
+exports[`test Renders right-oriented 1`] = `
+<g
+  fill="none"
+  fontFamily="sans-serif"
+  fontSize={10}
+  strokeWidth={1}
+  textAnchor="start">
+  <path
+    d="M6,0.5H0.5V1000.5H6"
+    stroke="black" />
+  <g
+    opacity={1}
+    transform="translate(0,0)">
+    <line
+      stroke="black"
+      x2={6}
+      y1={0.5}
+      y2={0.5} />
+    <text
+      dy="0.32em"
+      fill="black"
+      x={9}
+      y={0.5}>
+      0
+    </text>
+  </g>
+  <g
+    opacity={1}
+    transform="translate(0,500)">
+    <line
+      stroke="black"
+      x2={6}
+      y1={0.5}
+      y2={0.5} />
+    <text
+      dy="0.32em"
+      fill="black"
+      x={9}
+      y={0.5}>
+      250
+    </text>
+  </g>
+  <g
+    opacity={1}
+    transform="translate(0,1000)">
+    <line
+      stroke="black"
+      x2={6}
+      y1={0.5}
+      y2={0.5} />
+    <text
+      dy="0.32em"
+      fill="black"
+      x={9}
+      y={0.5}>
+      500
+    </text>
+  </g>
+</g>
+`;
+
+exports[`test Renders top-oriented 1`] = `
+<g
+  fill="none"
+  fontFamily="sans-serif"
+  fontSize={10}
+  strokeWidth={1}
+  textAnchor="middle">
+  <path
+    d="M0.5,-6V0.5H1000.5V-6"
+    stroke="black" />
+  <g
+    opacity={1}
+    transform="translate(0,0)">
+    <line
+      stroke="black"
+      x1={0.5}
+      x2={0.5}
+      y2={-6} />
+    <text
+      dy="0em"
+      fill="black"
+      x={0.5}
+      y={-9}>
+      0
+    </text>
+  </g>
+  <g
+    opacity={1}
+    transform="translate(500,0)">
+    <line
+      stroke="black"
+      x1={0.5}
+      x2={0.5}
+      y2={-6} />
+    <text
+      dy="0em"
+      fill="black"
+      x={0.5}
+      y={-9}>
+      250
+    </text>
+  </g>
+  <g
+    opacity={1}
+    transform="translate(1000,0)">
+    <line
+      stroke="black"
+      x1={0.5}
+      x2={0.5}
+      y2={-6} />
+    <text
+      dy="0em"
+      fill="black"
+      x={0.5}
+      y={-9}>
+      500
+    </text>
+  </g>
+</g>
+`;

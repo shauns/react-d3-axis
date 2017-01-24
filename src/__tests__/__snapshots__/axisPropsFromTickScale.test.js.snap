@@ -1,0 +1,23 @@
+exports[`test Creates axis props 1`] = `
+Object {
+  "format": [Function],
+  "position": [Function],
+  "range": Array [
+    0,
+    500,
+  ],
+  "values": Array [
+    0,
+    10,
+    20,
+    30,
+    40,
+    50,
+    60,
+    70,
+    80,
+    90,
+    100,
+  ],
+}
+`;
