@@ -1,5 +1,7 @@
 # react-d3-axis
 
+[![Build Status](https://travis-ci.org/shauns/react-d3-axis.svg?branch=master)](https://travis-ci.org/shauns/react-d3-axis)
+
 React-based Axis component for D3
 
 ## What is this?
